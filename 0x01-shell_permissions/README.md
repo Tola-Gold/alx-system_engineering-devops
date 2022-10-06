@@ -1,1 +1,1 @@
-script that adds execute permission to all subdirectories of the current directory for all
+script that prints all the groups the current user is part of
