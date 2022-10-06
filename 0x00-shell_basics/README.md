@@ -1,1 +1,1 @@
-a script that creates a directory
+script that copies all the HTML files
