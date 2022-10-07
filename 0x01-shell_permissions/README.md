@@ -1,1 +1,1 @@
-script that adds execute permission to all subdirectories of the current directory
+script that will play the StarWars IV episode in the terminal
